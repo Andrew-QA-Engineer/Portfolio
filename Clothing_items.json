@@ -1,0 +1,28 @@
+{
+   "clothing_items":[
+      {
+         "item_name":"Blue Denim Jeans",
+         "item_price":49.99,
+         "item_description":"Classic straight-leg jeans in a dark wash.",
+         "item_category":"Jeans"
+      },
+      {
+         "item_name":"Red Plaid Shirt",
+         "item_price":29.99,
+         "item_description":"Soft cotton flannel shirt in a bold red plaid pattern.",
+         "item_category":"Shirts"
+      },
+      {
+         "item_name":"Black Leather Jacket",
+         "item_price":149.99,
+         "item_description":"Sleek and stylish leather jacket with zippered pockets and a high collar.",
+         "item_category":"Jackets"
+      },
+      {
+         "item_name":"White Sneakers",
+         "item_price":79.99,
+         "item_description":"Comfortable and versatile sneakers in a clean white color.",
+         "item_category":"Shoes"
+      }
+   ]
+}
