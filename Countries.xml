@@ -1,0 +1,33 @@
+countries
+	country name=Ukraine population=42M
+		languageUkrainianlanguage
+		capitalKyivcapital
+		currencyUAHcurrency
+		continentEuropecontinent
+		EU_member
+	country
+	country name=France population=67M
+		languageFrenchlanguage
+		capitalPariscapital
+		currencyEURcurrency
+		continentEuropecontinent
+		EU_member True EU_member
+	country
+	country name=China population=1.4B
+		languageChineselanguage
+		capitalBeijingcapital
+		currencyCNYcurrency
+		continentAsiacontinent
+		EU_member
+	country
+	country name=Mexico population=129M
+		languageSpanishlanguage
+		capitalMexico Citycapital
+		currencyMXNcurrency
+		continentNorth Americacontinent
+		EU_member
+	country
+countries
+
+
+
