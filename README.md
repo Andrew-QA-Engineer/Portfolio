@@ -74,15 +74,15 @@ __Mind maps & diagrams__
 
 __The Fundamentals of Software Testing__  
 *online course by QATestLab Training Center*  
-A comprehensive course in quality assurance, covering skills in functional testing.   
+A comprehensive course in quality assurance, covering skills in functional testing.  
 [Link to the certificate](https://clients.qatestlab.com/api/trainings/public_certificate_231770_25469.pdf)
 
 __QA Automation Python__  
 *online course by Hillel IT School*  
 This course offers test automation training for professionals, covering fundamental challenges, architectural principles, and enabling the creation of custom test frameworks or complex applications. 
 
-__Software Testing__
-*online cource by Popeliuha QA Testing*
+__Software Testing__  
+*online cource by Popeliuha QA Testing*  
 A software testing course covers principles, techniques, and tools used in functional, and non-functional testing with the manual. Topics include defect tracking, quality assurance, and reporting along with strategies for identifying defects in web-based or mobile applications. This training prepares individuals pursuing careers as Software Testers or Quality Assurance Analysts.
 
 ## Books I have read
