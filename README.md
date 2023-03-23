@@ -19,7 +19,7 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 
 ## Skills
 
-You can find examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
+You can find examples of the described skills in my repository.
 
 __Manual Testing__
   * Performs manual functional and usability testing for web and mobile apps
